@@ -1,0 +1,9 @@
+font-family: 'Source Code Pro', monospace;
+
+color:
+blue: #008ed6
+gray: #999999
+light gray: #444348
+dark gray: #15141a
+black: #1a1a1a
+deep black: #15141a
